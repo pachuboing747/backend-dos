@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Nuevo título",
+    "description": "Cálzate la adidas Copa 20.3 y deslumbra sobre terrenos de césped natural seco.",
+    "price": 20000,
+    "thumbnail": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3df66ac4860b4c36892cab3000fc2cb5_9366/Botines_de_futbol_Copa_20.3_cesped_natural_seco_Blanco_EF1913_01_standard.jpg",
+    "code": "C001",
+    "stock": 10,
+    "id": 1
+  }
+]
